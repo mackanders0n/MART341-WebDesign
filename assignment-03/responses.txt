@@ -1,0 +1,3 @@
+Difference between an IP address & the DNS is that an IP address is an actual location where entities are located, the DNS only gives you the entity name.
+A cookie is a small file that usually includes unique identifiers that web servers can send back to browsers. Cookies are essentially a way for websites to remember who you are, your preferences and your habits online.
+The 3 essential parts of a URL are the protocol - HTTPS or HTTP, the domain name that identifies the site, and the path leading to a specific web page.
