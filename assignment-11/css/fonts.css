@@ -1,0 +1,11 @@
+/* This is the file, "fonts.css."*/
+@font-face {
+    font-family: 'Koulen';
+    src: url('../fonts/Koulen-Regular.ttf') format('truetype');
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Montserrat';
+    src: url('..fonts/Montserrat-VariableFont_wght.ttf') format('truetype')
+    font-weight: 700;
+}
